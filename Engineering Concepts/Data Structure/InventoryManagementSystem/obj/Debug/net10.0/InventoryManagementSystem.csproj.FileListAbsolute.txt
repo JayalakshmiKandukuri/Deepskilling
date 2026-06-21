@@ -1,0 +1,14 @@
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.exe
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.deps.json
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.runtimeconfig.json
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.dll
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.pdb
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.dll
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\obj\Debug\net10.0\refint\InventoryManagementSystem.dll
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.pdb
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\jayal\source\repos\Alogorithm_Data Structures\InventoryManagementSystem\obj\Debug\net10.0\ref\InventoryManagementSystem.dll
